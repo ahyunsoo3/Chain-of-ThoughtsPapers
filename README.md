@@ -29,17 +29,17 @@ Check **[Tool use LLMs](https://github.com/xlang-ai/llm-tool-use)** and **[Envir
 6. **Inferring Implicit Relations with Language Models.** 
 
    *Uri Katz, Mor Geva, Jonathan Berant*  [[pdf](https://arxiv.org/abs/2204.13778)] 2022.4
-   low Readibility 
+   - low Readibility 
  
 8. **The Unreliability of Explanations in Few-Shot In-Context Learning.**
   
    *Xi Ye, Greg Durrett* [[pdf](https://arxiv.org/abs/2205.03401)] 2022.5
-   Low Readibility
+   - Low Readibility
 
 10. **Large Language Models are Zero-Shot Reasoners.**
   
    *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo, Yusuke Iwasawa* [[pdf](https://arxiv.org/abs/2205.11916)], [[code](https://github.com/kojima-takeshi188/zero_shot_cot)] 2022.5
-   Zero shot and Few shots CoT vs Vanilar Zero / Few shots
+   - Zero shot and Few shots CoT vs Vanilar Zero / Few shots
 
 11. **Least-to-Most Prompting Enables Complex Reasoning in Large Language Models.**
   
